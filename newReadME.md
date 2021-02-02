@@ -1,10 +1,10 @@
 
-# jo
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jo/jo)
+# ReadME BOT
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wtrickster/ReadME BOT)
 
 # Description
 
-jo
+Makes a readME
 
 # Table of Contents 
 
@@ -22,24 +22,24 @@ jo
 
 # Installation
 
-The following necessary dependencies must be installed to run the application properly: jo
+These need to be installed to run the application properly: json and node
 
 # Usage
 
-​This application is used for jo
+​This program is used for making readMEs
 
 # License
 
-This project is license under the jo license.
+MIT license
 
 # Contributing
 
-​Contributors: jo
+​Contributors: Wtrickster
 
 # Tests
 
-To run tests, you need to run the following command: jo
+Command line: node index.js
 
 # Questions
 
-If you have any questions about the repo, open an issue or contact jo directly jo.
+Questions or issues, contact wtrickster at JSPenland97@gmail.com.
